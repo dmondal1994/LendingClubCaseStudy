@@ -1,12 +1,19 @@
 # Project Name
-> Outline a brief description of your project.
+> Lending Club Case Study
 
+# Project Goal
+> To identify the bank customers who could turn into possible loan defaulters in the future.
+
+## Team Members
+> Debasish Mondal
+> Sudha G. Lakshmaiah
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* Data Reading and Import Requisite Libraries
+* Data Cleansing
+* Data Extraction
+* Exploratory Data Analysis (EDA)
+* Observations
 
 <!-- You can include any other section that is pertinent to your problem -->
 
